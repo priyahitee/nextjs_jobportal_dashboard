@@ -2,7 +2,7 @@ Preview Link:
 [jobportal-roan.vercel.app](https://jobportal-roan.vercel.app/)
 
 Details: <br>
-•Designed a Job Portal Dashboard using AntDesign with NextJs. <br>
+•Designed a Full stack Job Portal Dashboard using AntDesign with NextJs. <br>
 • Implemented both Jobs who posted employer view and applied candidate view. <br>
 •Handled State management through Redux toolkit and generated JWT & Save Cookie & Auth Protect Middleware. <br>
 • Encrypted Password by using bcryptjs. <br>
